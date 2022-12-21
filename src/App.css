@@ -8,7 +8,7 @@ html,body{
 } */
 
 .bg-main{
-  background-color: #ffc045;
+  background-color: #ffc045 !important;
 }
 .fs-7{
 font-size: 1rem;
@@ -149,12 +149,8 @@ font-size: 1rem;
     top: 62%;
     left: 18%;
   }
-}
-/* .height-cals{
-  height: calc(100% - 500px) !important;
-} */
 .bg-red{
-  background-color: #bf2222 !important;
+  background: #bf2222 !important;
 }
 .f-fam-alpha{
   font-family: 'Alfa Slab One', cursive;
