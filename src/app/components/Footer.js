@@ -19,10 +19,10 @@ const Footer = () => {
       <div className='position-absolute bottom-0 w-100 d-flex justify-content-between px-5 '>
         <p className='text-white fs-12 footer-text'>CN 2022.All RIGHTS RESERVED</p>
         <div className=''>
-          <img className='me-1 otherlogo' src='/assets/images/insta.png'/>
-          <img  className='me-1 otherlogo' src='/assets/images/facebook.png'/>
-          <img  className='me-1 otherlogo' src='/assets/images/twitter.png'/>
-          <img  className='me-1 otherlogo' src='/assets/images/whatsaap.png'/>
+          <img className='me-1 otherlogo' src='assets/images/insta.png'/>
+          <img  className='me-1 otherlogo' src='assets/images/facebook.png'/>
+          <img  className='me-1 otherlogo' src='assets/images/twitter.png'/>
+          <img  className='me-1 otherlogo' src='assets/images/whatsaap.png'/>
 
         </div>
       </div>
