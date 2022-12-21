@@ -154,7 +154,7 @@ font-size: 1rem;
   height: calc(100% - 500px) !important;
 } */
 .bg-red{
-  background-color: #bf2222;
+  background-color: #bf2222 !important;
 }
 .f-fam-alpha{
   font-family: 'Alfa Slab One', cursive;
